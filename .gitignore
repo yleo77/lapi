@@ -1,0 +1,6 @@
+TODO.md
+.jsbeautifyrc
+*.DS_Store
+node_modules/
+demo/
+

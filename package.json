@@ -1,0 +1,15 @@
+{
+  "name": "lapi",
+  "version": "0.1.0",
+  "description": "just a static file loader",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-jshint": "~0.8.0"
+  },
+  "scripts": {
+    
+  },
+  "author": "yleo77",
+  "license": "MIT"
+}
